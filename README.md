@@ -3,6 +3,12 @@ rawpixel
 
 Rob Churchill assets portal kickstart
 
+This is the backend piece of the web portal itself which will utilize Symfony2 components.
+
+
+
+
+
 Phase 1 web based file manager internal users
 
 Web Based File Manager 
